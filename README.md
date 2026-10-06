@@ -219,7 +219,7 @@ print("Relatório de Classificação:\n", classification_report(y_test, y_pred_p
 
 Este módulo aborda os dados das escolas brasileiras de Educação Básica, focando na infraestrutura, organização administrativa, oferta de turmas de tempo integral e qualificação docente.
 
-### Prova Prática 4: Classificação da Dependência Administrativa da Escola
+### Prova Prática 4: Classificação da Dependência Administrativa da Escola (escolhi essa) - Marcos Calera 
 * **Objetivo Pedagógico:** Determinar se um estabelecimento de ensino básico é de dependência Pública (Federal/Estadual/Municipal) ou Privada utilizando dados de porte, matrículas e localização.
 * **Fontes de Dados:** `Tabela_Escola_2025` e `Tabela_Matricula_2025`.
 * **Roteiro Didático de Execução:**
